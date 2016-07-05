@@ -10,6 +10,20 @@
 #    lintr               ?? - to identify code readability problems
 
 
+##' Quick method to check if package is installed
+##'
+##' Sees if package is installed, then installs if not yet there.
+##'
+##' @param s Name of package to attach (string)
+##' @return NULL
+##' @export
+
+## qlib <- function(s, ...){
+##   if (!(s %in% installed.packages()[ ,1])) install.packages(s, ...)
+##   library(s)
+## }
+
+
 
 #' Quicker rbind / cbind
 #'
