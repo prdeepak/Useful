@@ -1,0 +1,10 @@
+Package: Useful
+Type: Package
+Title: Deepak's Useful Functions
+Version: 0.0.0.9000
+Author: Deepak Ramachandran
+Maintainer: Deepak Ramachandran <deepak1.ramachandran@gmail.com>
+Description: Simple functions I expect to use multiple times.
+License: GPL-3
+LazyData: TRUE
+RoxygenNote: 5.0.1
